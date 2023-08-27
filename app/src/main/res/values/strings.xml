@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Layout</string>
+    <string name="form_name">Nama</string>
+    <string name="form_adress">NIM</string>
+    <string name="btn_test1">Submit</string>
+    <string name="btn_test2">Cancel</string>
+
+
+</resources>
